@@ -7,3 +7,6 @@
 [submodule "vault/lib/conditional-tokens-contracts"]
 	path = vault/lib/conditional-tokens-contracts
 	url = https://github.com/gnosis/conditional-tokens-contracts
+[submodule "vault/lib/conditional-tokens-market-makers"]
+	path = vault/lib/conditional-tokens-market-makers
+	url = https://github.com/gnosis/conditional-tokens-market-makers
