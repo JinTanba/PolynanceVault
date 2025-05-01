@@ -4,3 +4,6 @@
 [submodule "vault/lib/openzeppelin-contracts"]
 	path = vault/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "vault/lib/conditional-tokens-contracts"]
+	path = vault/lib/conditional-tokens-contracts
+	url = https://github.com/gnosis/conditional-tokens-contracts
