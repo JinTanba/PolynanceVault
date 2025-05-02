@@ -29,7 +29,7 @@ User ↔ Vault | 2. Tracks idle vs locked balances (in USDC units)     |
            +-------------▲-------------+    +------------▲-----------+
                          │IAdaptor                 │IAdaptor
            +-------------┴----+              +-----┴--------------+
-           | Polymarket CTF   |              | Augur v2           |  ∞ Adaptors
+           | Limitless Fpmm   |              | turemarkets           |  ∞ Adaptors
            +------------------+              +--------------------+
 ```
 
